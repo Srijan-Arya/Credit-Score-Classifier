@@ -1,5 +1,8 @@
 # Credit Score Classification Model 🏦📊
 
+![image](https://github.com/user-attachments/assets/02ec4cd6-a975-4bae-8945-96ec992ef8e3)
+
+
 ## 📜 Project Overview
 
 This project is designed to develop and evaluate machine learning models for classifying credit scores into distinct categories. Using a well-preprocessed dataset, we aim to build robust models to predict creditworthiness based on financial attributes. The primary focus is on achieving high performance in terms of accuracy and ROC-AUC score, a key metric for assessing the quality of multi-class classification models.
@@ -7,6 +10,7 @@ This project is designed to develop and evaluate machine learning models for cla
 ## 📊 Dataset
 
 The dataset utilized in this project is the [Credit Score Classification Dataset](https://www.kaggle.com/datasets/parisrohan/credit-score-classification) available on Kaggle. This dataset includes various features relevant to credit scoring and has been preprocessed to handle missing values and ensure overall data quality.
+![image](https://github.com/user-attachments/assets/cbdd7893-0a60-4ed9-91ad-a17ce73d0a82)
 
 ## 🛠️ Models
 
@@ -94,6 +98,9 @@ Model performance is evaluated using multiple metrics, with a particular emphasi
     ```
 
 ### ROC Curve Analysis
+
+![image](https://github.com/user-attachments/assets/e342755b-2a78-4053-85e0-fbae3b73278c)
+
 
 The ROC-AUC score reflects the models' ability to distinguish between classes across various thresholds. Higher ROC-AUC scores indicate better model performance.
 
